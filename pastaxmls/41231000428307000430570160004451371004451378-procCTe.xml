@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cteProc xmlns="http://www.portalfiscal.inf.br/cte" versao="3.00">
+    <CTe xmlns="http://www.portalfiscal.inf.br/cte">
+        <infCte Id="CTe41231055666444000257570160004451371004451378" versao="3.00">
+            <ide>
+                <cUF>41</cUF>
+                <cCT>00445137</cCT>
+                <CFOP>6353</CFOP>
+                <natOp>Transportadora1</natOp>
+                <mod>57</mod>
+                <serie>16</serie>
+                <nCT>445137</nCT>
+                <dhEmi>2023-10-25T19:06:17-03:00</dhEmi>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>8</cDV>
+                <tpAmb>1</tpAmb>
+                <tpCTe>0</tpCTe>
+                <procEmi>0</procEmi>
+                <verProc>NDDigital CTe 4.8.5</verProc>
+                <cMunEnv>4119905</cMunEnv>
+                <xMunEnv>PONTA GROSSA</xMunEnv>
+                <UFEnv>PR</UFEnv>
+                <modal>01</modal>
+                <tpServ>0</tpServ>
+                <cMunIni>4119905</cMunIni>
+                <xMunIni>PONTA GROSSA</xMunIni>
+                <UFIni>PR</UFIni>
+                <cMunFim>4307005</cMunFim>
+                <xMunFim>ERECHIM</xMunFim>
+                <UFFim>RS</UFFim>
+                <retira>1</retira>
+                <indIEToma>1</indIEToma>
+                <toma3>
+                    <toma>0</toma>
+                </toma3>
+            </ide>
+            <compl>
+                <fluxo>
+                    <xOrig>CQ - PONTA GROSSA</xOrig>
+                    <xDest>D - ERECHIM</xDest>
+                </fluxo>
+                <Entrega>
+                    <comData>
+                        <tpPer>2</tpPer>
+                        <dProg>2023-10-26</dProg>
+                    </comData>
+                    <comHora>
+                        <tpHor>2</tpHor>
+                        <hProg>15:00:00</hProg>
+                    </comHora>
+                </Entrega>
+                <xObs>transportadora12314 - ME  /  ERECHIM - RS  /  IE: 0215488492  /  CNPJ: 44.444.444/0001-55  /  ANTT: 08860645                                                                                                                             O ARQUIVO XML DESTE CT-E ESTA DISPONIVEL NO PORTAL DA EXPRESSO SAO MIGUEL LTDA. ACESSE http://www.expressosaomiguel.com.br Valor Aprox. Tributos (LEI 12741, 08/12/12):: R$ 18,28 (13,45%) FONTE: IBPT</xObs>
+                <ObsCont xCampo="XTEXTO.0">
+                    <xTexto>COBRANCA: BANCO                  FORMA DE PAGAMENTO: PAGO</xTexto>
+                </ObsCont>
+                <ObsCont xCampo="XTEXTO.1">
+                    <xTexto>FALE CONOSCO AG.: ERECHIM (54) 3333-3333</xTexto>
+                </ObsCont>
+                <ObsCont xCampo="XTEXTO.2">
+                    <xTexto>SEG. DE CARGA APOLICES 5234455333/3344445555</xTexto>
+                </ObsCont>
+                <ObsCont xCampo="XTEXTO.3">
+                    <xTexto>SOMPO SEGUROS S.A. RESOL. ANTT 4799/15</xTexto>
+                </ObsCont>
+            </compl>
+            <emit>
+                <CNPJ>55666444000257</CNPJ>
+                <IE>4101666666</IE>
+                <xNome>CASCAVEL - transportadora2</xNome>
+                <enderEmit>
+                    <xLgr>ROD BR-277</xLgr>
+                    <nro>SN</nro>
+                    <xBairro>SANTOS DUMONT</xBairro>
+                    <cMun>4104808</cMun>
+                    <xMun>CASCAVEL</xMun>
+                    <CEP>85804600</CEP>
+                    <UF>PR</UF>
+                    <fone>4933614400</fone>
+                </enderEmit>
+                <CRT>3</CRT>
+            </emit>
+            <rem>
+                <CNPJ>11222333000144</CNPJ>
+                <IE>9018057929</IE>
+                <xNome>Empresa123</xNome>
+                <fone>4255511111</fone>
+                <enderReme>
+                    <xLgr>RUA JOAO PEDRO</xLgr>
+                    <nro>15024</nro>
+                    <xBairro>CARA-CARA</xBairro>
+                    <cMun>4119905</cMun>
+                    <xMun>PONTA GROSSA</xMun>
+                    <CEP>84032300</CEP>
+                    <UF>PR</UF>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                </enderReme>
+            </rem>
+            <dest>
+                <CNPJ>77888999000144</CNPJ>
+                <IE>0390188888</IE>
+                <xNome>EMPRESA22222</xNome>
+                <fone>5431940240</fone>
+                <enderDest>
+                    <xLgr>RUA SANTOS DUMONT</xLgr>
+                    <nro>11018</nro>
+                    <xBairro>SAO CRISTOVAO</xBairro>
+                    <cMun>4307005</cMun>
+                    <xMun>ERECHIM</xMun>
+                    <CEP>99709370</CEP>
+                    <UF>RS</UF>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                </enderDest>
+                <email>empresa2@empresa2.com.br</email>
+            </dest>
+            <vPrest>
+                <vTPrest>135.94</vTPrest>
+                <vRec>135.94</vRec>
+                <Comp>
+                    <xNome>FRETE PESO</xNome>
+                    <vComp>54.84</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>FRETE VALOR</xNome>
+                    <vComp>45.39</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>PEDAGIO</xNome>
+                    <vComp>2.70</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>GRIS</xNome>
+                    <vComp>17.02</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>OUTROS</xNome>
+                    <vComp>15.99</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>T-CPF</xNome>
+                    <vComp>0.00</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>TDA</xNome>
+                    <vComp>0.00</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>TDE</xNome>
+                    <vComp>0.00</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>REDESPACHO</xNome>
+                    <vComp>0.00</vComp>
+                </Comp>
+            </vPrest>
+            <imp>
+                <ICMS>
+                    <ICMS00>
+                        <CST>00</CST>
+                        <vBC>133.24</vBC>
+                        <pICMS>12.00</pICMS>
+                        <vICMS>15.99</vICMS>
+                    </ICMS00>
+                </ICMS>
+                <vTotTrib>18.28</vTotTrib>
+            </imp>
+            <infCTeNorm>
+                <infCarga>
+                    <vCarga>11348.30</vCarga>
+                    <proPred>MEDICAMENTOS/MAT HOSPITALAR HUMANO</proPred>
+                    <infQ>
+                        <cUnid>03</cUnid>
+                        <tpMed>VOLUMES</tpMed>
+                        <qCarga>9.0000</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>01</cUnid>
+                        <tpMed>PESO DECLARADO</tpMed>
+                        <qCarga>35.0000</qCarga>
+                    </infQ>
+                    <vCargaAverb>11348.30</vCargaAverb>
+                </infCarga>
+                <infDoc>
+                    <infNFe>
+                        <chave>41231011222333000144550010002516561420564820</chave>
+                    </infNFe>
+                </infDoc>
+                <infModal versaoModal="3.00">
+                    <rodo>
+                        <RNTRC>00081509</RNTRC>
+                    </rodo>
+                </infModal>
+            </infCTeNorm>
+            <infRespTec>
+                <CNPJ>22999888000188</CNPJ>
+                <xContato>Jorge Joao José</xContato>
+                <email>jjj@jjj.com.br</email>
+                <fone>554932518000</fone>
+            </infRespTec>
+        </infCte>
+        <infCTeSupl>
+            <qrCodCTe>http://www.fazenda.pr.gov.br/cte/qrcode?chCTe=41231055666444000257570160004451371004451378&amp;tpAmb=1</qrCodCTe>
+        </infCTeSupl>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#CTe41231055666444000257570160004451371004451378">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>0XUSQ0uxFJE183w+/OqsooGKEwU=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>e2/1/x5qAOKcl0QSj7r+ZrquXjIslty3ur+TTTTTTfVG9QLPfO8WCO67uD07QXMTqfHf4HVO/vWpuQxlxwLIg/P5+oVlLlu/3zI3IbhHjPuFK+xph1g15tuba9kMUJ5hNhftSbVF/nerCxx2L5dZLPyqlh6iEsEOKvr1r47RJdJjAiYq9bs19unr6yz1s74+FJHL36exhJ6MQqnWQFDXa4P0LipnxqRO0UbIP/Vy4DEs/q1Vwma429CfYPqWw0Py2c7EvFUE6mIJo/qNy5Ty8mvSNzBhzE0Pg94oOAcs0NWIoZs22FbX1hptUhgtZqRPz4RvxvH+DFbv7l1EdNi+Rw==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>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</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </CTe>
+    <protCTe versao="3.00">
+        <infProt Id="ID555550234552868">
+            <tpAmb>1</tpAmb>
+            <verAplic>PR-v3_3_11</verAplic>
+            <chCTe>41231055666444000257570160004451371004451378</chCTe>
+            <dhRecbto>2023-10-25T19:08:36-03:00</dhRecbto>
+            <nProt>145555555552868</nProt>
+            <digVal>0XUSQ0uxFJE183w+/OqsooGKEwU=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso do CT-e</xMotivo>
+        </infProt>
+    </protCTe>
+</cteProc>
